@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "415768747100",
+    "firebase_url": "https://othmans-3032b.firebaseio.com",
+    "project_id": "othmans-3032b",
+    "storage_bucket": "othmans-3032b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415768747100:android:bb9c32ee0b63c33e68da99",
+        "android_client_info": {
+          "package_name": "com.othman.othmans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415768747100-tofg04f8noqosa71ek5sd2i8g5tsb7kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF8yJ9VWChgAmCRrPGQdv3F9X2Rg7eCIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415768747100-tofg04f8noqosa71ek5sd2i8g5tsb7kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
